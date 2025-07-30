@@ -8,9 +8,9 @@
  ██║ ███████║ ██║  ██║ ██║     ███████╗    ██║      ██████╔╝ ██║
  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝     ╚══════╝    ╚═╝      ╚═════╝  ╚═╝
 
-================================================================================
-                  iSafe PDF - The Ultimate PDF Tool by Ali Goodarzi
-================================================================================
+========================================================================
+            iSafe PDF - The Ultimate PDF Tool by Ali Goodarzi
+========================================================================
 ```
 A professional, command-line utility to compress, enhance, and archive PDF files with advanced image optimization capabilities.
 
