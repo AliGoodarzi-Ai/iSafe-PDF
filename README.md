@@ -2,6 +2,12 @@
 
 A professional, command-line utility to compress, enhance, and archive PDF files with advanced image optimization capabilities.
 
+ ██  ███████╗ █████╗ ███████╗███████╗    ██████╗ ██████╗ ███████╗
+     ██╔════╝██╔══██╗██╔════╝██╔════╝    ██╔══██╗██╔══██╗██╔════╝
+ ██╗ ███████╗███████║█████╗  █████╗      ██████╔╝██║  ██║█████╗
+ ██║ ╚════██║██╔══██║██╔══╝  ██╔══╝      ██╔═══╝ ██║  ██║██╔══╝
+ ██║ ███████║██║  ██║██║     ███████╗    ██║     ██████╔╝██║
+╚═╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝    ╚═╝     ╚═════╝ ╚═╝
 ## Overview
 
 This tool provides high-quality PDF manipulation using the PyMuPDF (fitz) library. It's designed for both technical users who prefer command-line interfaces and non-technical users who need a simple, menu-driven solution.
